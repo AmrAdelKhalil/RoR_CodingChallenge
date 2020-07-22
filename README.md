@@ -1,8 +1,8 @@
 # Rails Notes coding challenge
-**Rails Notes coding challenge** is a coding challenge for Rails developers applying for a job.
+**Rails Notes coding challenge** is a coding challenge for Rails developers applying for a job at Pangea Technology.
 
 ## Scenario
-So here you are! You decided to apply for a job and now we are asking you to help us create a Notes App in Rails.
+So here you are! You decided to apply for a job at Pangea and now we are asking you to help us create a Notes App in Rails.
 
 The app should have basic authentication with email and password.
 You don't have to store any other information about the user.
@@ -17,7 +17,7 @@ The user has to see the live updates, however not necessarily the cursors or any
 Bonus: Add two types of links (view only, view and edit)
 Only editing is mandatory.
 
-Don't spend a lot of time on styling.
+You don't have to spend a lot of time on styling.
 An input field for the title and a text field for the body are enough for the note.
 The body should be plain text without markup. (bold, italic etc. are not necessary)
 
